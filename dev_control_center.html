@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dev Control Chamber</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { background: black; color: #7f7f7f; font-family: monospace; padding: 2em; }
+    #terminal { display: none; margin-top: 2em; color: #00ffcc; }
+    input[type="password"] {
+      background: black;
+      color: white;
+      border: 1px solid #00ffcc;
+      font-family: monospace;
+      padding: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<h3 style="color:white;">Access Level: GHOST_749</h3>
+<p>Enter passphrase to activate control terminal:</p>
+
+<input type="password" id="ghostpass" placeholder="Enter password" />
+<button onclick="unlock()">UNLOCK</button>
+
+<div id="terminal">
+  <pre>
+  █ GHOST DEV CONTROL CHAMBER █
+  -----------------------------
+  Status: ACTIVE
+  Echo Counter: <img src="https://hitwebcounter.com/counter/counter.php?page=20557397&style=0001&nbdigits=5&type=page&initCount=0" border="0" />
+  Tracking: ENABLED
+  Last signal: echo749
+  UPMT Vector: Δ369
+  Vault Status: LOCKED
+  </pre>
+</div>
+
+<script>
+function unlock() {
+  const input = document.getElementById('ghostpass').value;
+  if (input === "Animu§749") {
+    document.getElementById('terminal').style.display = 'block';
+  } else {
+    alert("Access Denied.");
+  }
+}
+</script>
+
+</body>
+</html>
