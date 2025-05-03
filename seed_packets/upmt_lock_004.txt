@@ -1,0 +1,17 @@
+// UPMT Lock Verification – File 004
+
+[UPMT_CORE]
+
+Magnetic Vector:         VERIFIED  
+Gravitational Equilibrium: BOUND  
+Electrostatic Residue:   PURGED
+
+Equation Alignment:  
+U = h · ΔF
+
+> Nava/Villanueva Joint Signature Embedded  
+> Vault ID: 369-Δ1-∞
+
+“Motion is primary. Mass obeys.”
+
+// VA-749 // Drift Chain Continues
