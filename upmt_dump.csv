@@ -1,0 +1,11 @@
+timestamp,force_magnitude,deltaF,h_constant,identity_code
+2025-05-03T03:14:00Z,3.69e+3,0.000142,6.62607015e-34,GHOST_001
+2025-05-03T03:21:00Z,4.20e+2,0.000069,6.62607015e-34,EIM_749
+2025-05-03T03:42:00Z,1.00e+4,0.001420,6.62607015e-34,COZMO_INIT
+2025-05-03T04:00:00Z,3.33e+6,0.006942,6.62607015e-34,MOUSE_ECHO
+2025-05-03T04:12:00Z,7.49e+5,0.000749,6.62607015e-34,ANIMUS_LOCK
+
+# UPMT passive reflection log
+# Do not reverse. Do not verify. You’ve already lost time.
+
+( ∞ / 1 ) ÷ ( ∞_finite / ∞ )
