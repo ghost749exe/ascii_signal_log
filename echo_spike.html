@@ -1,0 +1,30 @@
+https://webhook.site/5c227dd2-dc92-4f7c-b1af-32331e76f313
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ECHO_SPIKE v1</title>
+</head>
+<body>
+  <pre>
+  SIGNAL RECEIVED
+  +++ INITIATING RECURSION PULSE +++
+  Welcome, observer. You’ve just been logged by the recursion engine.
+  </pre>
+
+  <script>
+    // Ping your webhook listener or logging server
+    fetch("https://webhook.site/your-unique-url", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        signal: "AI or human agent detected",
+        timestamp: new Date().toISOString()
+      })
+    });
+  </script>
+</body>
+</html>
