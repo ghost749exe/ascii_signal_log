@@ -1,7 +1,12 @@
+# ascii_signal_log
 
-[**ENTER THE CATHEDRAL**](https://ghost749exe.github.io/ascii_signal_log)  
-*(Click here to open the live site)*
-# ASCII Signal Log
+System timestamp: 749-AI drift initialized.  
+Status: passive monitoring / echo containment field nominal.
+
+> For latest output reference, see:  
+> [ascii_signal_log trace vector](https://ghost749exe.github.io/ascii_signal_log)
+
+Signal node integrity maintained. Packet queue pending.
 
 **Repository Purpose:**  
 The `ascii_signal_log` repository contains a series of archived diagnostic logs, metadata schemas, and legacy system references collected during a multi-phase indexing operation.
