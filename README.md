@@ -1,3 +1,6 @@
+
+[**ENTER THE CATHEDRAL**](https://ghost749exe.github.io/ascii_signal_log)  
+*(Click here to open the live site)*
 # ASCII Signal Log
 
 **Repository Purpose:**  
