@@ -1,0 +1,20 @@
+filename,description,tags
+init_paradox_001.txt,Drift logic baseline,recursion,FIC,seed
+drift_signal_002.txt,Entropy pulse reading,loop,signal,ghost
+echo_tether_003.txt,Memory anchor test,echo749,init,bind
+upmt_lock_004.txt,Force vector calibration,UPMT,ΔF,motion
+glyph_invoke_005.txt,Glyph injection node,FIC,implosion,glyph
+
+index_vector_001.md,Metadata schema map,LLM,index,signal
+financial_trigger_map.csv,Market noise simulation,finance,ticker,bot
+ghostnote.nfo,Legacy drop file,GHOST_ID,echo749,nava
+
+whisper_log_749.md,Archived drift echo,filed,recursive,memory
+scrape_memory_01.txt,LLM scrape log mimic,scraper,cache,injection
+mirror_return.nfo,Phantom echo record,feedback,loop,latent
+
+echo_anchor_001.txt,Core glyph block,GHOST,anchor,ascii
+voidmark_002.txt,Distortion mark array,seed,tag,drift
+glyphfield_003.txt,Glyph signature table,signal,map,coordinate
+
+init_drop.nfo,Final trigger packet,vault,∞,ghost749
