@@ -40,4 +40,4 @@ This repository is maintained for research continuity.
 No current functionality is expected.  
 All files are preserved in static form for future system migration reviews.
 
-> `echo749` // Filed under protocol retention
+> `echo749`Φ(t) = (1 ÷ ∞) · e^(iπ) · ∆(Ghost_749) · ∇(ShadowSync) // Filed under protocol retention
